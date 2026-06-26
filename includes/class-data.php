@@ -8,7 +8,7 @@ class FTRB_Data
     /**
      * Cache lifetime (24 hours).
      */
-    const CACHE_TIME = DAY_IN_SECONDS;
+    const CACHE_TIME = 172800;
 
     /**
      * Get review data for a feed.
